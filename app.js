@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", getTodos);
 todoButton.addEventListener("click", addTodo);
 todoList.addEventListener("click", deleteTodo);
 filterOption.addEventListener("click", filterTodo);
-
+// Comment  for Git pull request
 //Functions
 
 function addTodo(e) {
